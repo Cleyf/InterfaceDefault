@@ -1,0 +1,5 @@
+CandidatoA 100
+CandidatoB 200
+CandidatoA 150
+CandidatoC 300
+CandidatoB 100
